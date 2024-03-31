@@ -16,7 +16,7 @@ connectDB();
 //Middlewares
 
 // app.use(cors({
-//     origin: 'http://localhost:3000',
+//     origin: 'https://inventory-management-iiit.vercel.app',
 //     credentials: true,
 // }));
 // const corsConfig = {
