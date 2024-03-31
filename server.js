@@ -33,7 +33,7 @@ connectDB();
 
 
 const corsOptions ={
-    origin:'http://localhost:3000', 
+    origin:'https://inventory-management-iiit.vercel.app', 
     credentials:true,            //access-control-allow-credentials:true
     optionSuccessStatus:200
 }
